@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonsDemo</string>
+    <string name="button_text">Demo</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <color name="bluet">#00416b</color>
+</resources>

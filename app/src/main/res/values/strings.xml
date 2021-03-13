@@ -3,5 +3,15 @@
     <string name="button_text">Demo</string>
     <string name="on">ON</string>
     <string name="off">OFF</string>
+    <string name="monster_logo">Monster Logo</string>
+
+
+
     <color name="bluet">#00416b</color>
+
+
+    <string-array name="spinner_values">
+        <item>ON</item>
+        <item>OFF</item>
+    </string-array>
 </resources>

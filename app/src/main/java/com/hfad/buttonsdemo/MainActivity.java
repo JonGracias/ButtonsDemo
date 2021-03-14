@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         one = findViewById(R.id.button);
-        //two = findViewById(R.id.button2);
+
 
         final MediaPlayer mp = MediaPlayer.create(this, R.raw.sirensound);
         final MediaPlayer sp = MediaPlayer.create(this, R.raw.nochange);

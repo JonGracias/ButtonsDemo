@@ -39,7 +39,7 @@
             android:id="@+id/button"
             android:layout_width="267dp"
             android:layout_height="match_parent"
-            android:text="Siren Head"
+            android:text="@string/siren_head"
             android:drawableEnd="@drawable/sirenhead"
             android:backgroundTint="@color/bluet"/>
 
@@ -60,12 +60,12 @@
         android:layout_rowWeight="1"
         tools:context=".MainActivity">
 
-        <Button
+        <ImageButton
             android:id="@+id/button2"
-            android:layout_width="267dp"
+            android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="@string/button_text"
-            android:backgroundTint="@color/bluet"/>
+            android:src="@drawable/cartooncat"
+            android:contentDescription="@string/cartoon_cat" />
 
         <Switch
             android:id="@+id/switch_view"

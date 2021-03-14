@@ -4,7 +4,8 @@
     <string name="on">ON</string>
     <string name="off">OFF</string>
     <string name="monster_logo">Monster Logo</string>
-
+    <string name="cartoon_cat">cartoon cat</string>
+    <string name="siren_head">Siren Head</string>
 
 
     <color name="bluet">#00416b</color>
